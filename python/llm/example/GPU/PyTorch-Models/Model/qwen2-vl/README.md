@@ -121,15 +121,7 @@ Arguments info:
 ```log
 Inference time: xxxx s
 -------------------- Prompt --------------------
-AI是什么？
+Describe this image.
 -------------------- Output --------------------
-AI是人工智能（Artificial Intelligence）的缩写。它指的是通过计算机程序、算法和模型来模拟、延伸和扩展人类智能的一门学科
-```
-
-```log
-Inference time: xxxx s
--------------------- Prompt --------------------
-What is AI?
--------------------- Output --------------------
-AI stands for Artificial Intelligence. It refers to the simulation of human intelligence in machines that are programmed to think and work like humans. This includes learning from experience,
+The image depicts depicts a woman and a dog sitting in shallow water on a beach. The
 ```
