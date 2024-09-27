@@ -1,5 +1,5 @@
 # Qwen2-VL
-In this directory, you will find examples on how you could use IPEX-LLM `optimize_model` API to accelerate Qwen2 models on [Intel GPUs](../../../README.md). For illustration purposes, we utilize the [Qwen/Qwen2-VL-7B-Instruct](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) as a reference InternLM model.
+In this directory, you will find examples on how you could use IPEX-LLM `optimize_model` API to accelerate Qwen2 models on [Intel GPUs](../../../README.md). For illustration purposes, we utilize the [Qwen/Qwen2-VL-7B-Instruct](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) as a reference Qwen2-VL model.
 
 ## 0. Requirements
 To run these examples with IPEX-LLM on Intel GPUs, we have some recommended requirements for your machine, please refer to [here](../../../README.md#requirements) for more information.
